@@ -31,6 +31,7 @@
     "website": "15-431-entrepreneurial-finance-spring-2011"
   },
   "course_title": "Entrepreneurial Finance",
+  "hide_download": true,
   "course_description": "_15.431 Entrepreneurial Finance_ examines the elements of entrepreneurial finance, focusing on technology-based start-up ventures and the early stages of company development. The course addresses key questions which challenge all entrepreneurs: how much money can and should be raised; when should it be raised and from whom; what is a reasonable valuation of the company; and how should funding, employment contracts and exit decisions be structured. It aims to prepare students for these decisions, both as entrepreneurs and venture capitalists. In addition, the course includes an in-depth analysis of the structure of the private equity industry.\n",
   "department_numbers": [
     "15"
@@ -41,6 +42,7 @@
     "content": "c3315a5f-2a2c-169e-0ad9-3bd24ca5baa8",
     "website": "15-431-entrepreneurial-finance-spring-2011"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"
